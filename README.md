@@ -40,9 +40,9 @@ The dashboard includes the following visualizations:
 - CSV Dataset  
 
 ## Dashboard Preview
-![Dashboard Screenshot](your-image-file-name.png)
+![Dashboard Screenshot](dashbord.png.png)
 
-## 📂 Files Included
+## Files Included
 - `drug200.csv` → Dataset  
 - `report.pdf` → Project report  
 - `dashboard.png` → Dashboard screenshot  
