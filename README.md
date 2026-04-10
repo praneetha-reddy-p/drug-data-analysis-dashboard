@@ -1,7 +1,7 @@
 # drug-data-analysis-dashboard
 Tableau dashboard for drug data analysis
 
-# 💊 Drug Data Analysis Dashboard
+# Drug Data Analysis Dashboard
 
 ## Project Overview
 This project focuses on analyzing a healthcare dataset using data visualization techniques. An interactive dashboard is created using Tableau to explore patterns, trends, and relationships in patient data.
