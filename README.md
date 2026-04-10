@@ -39,9 +39,6 @@ The dashboard includes the following visualizations:
 - Tableau Desktop  
 - CSV Dataset  
 
-## Dashboard Preview
-![Dashboard Screenshot](dashbord.png.png)
-
 ## Files Included
 - `drug200.csv` → Dataset  
 - `report.pdf` → Project report  
